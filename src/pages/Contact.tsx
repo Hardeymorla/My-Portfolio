@@ -39,9 +39,9 @@ const Contact = () => {
           </Button>
         </form>
         <div className="flex justify-center gap-6 mt-6">
-          <a href="#">https://www.linkedin.com/in/ibrahim-raheem-84939918a/</a>
-          <a href="#">https://github.com/Hardeymorla</a>
-          <a href="#">https://x.com/AdemoRaheem?t=DNOXnwfFgrKoUfsZVjribA&s=09</a>
+          <a href="https://www.linkedin.com/in/ibrahim-raheem-84939918a/">LinkedIn</a>
+          <a href="https://github.com/Hardeymorla">Github</a>
+          <a href="https://x.com/AdemoRaheem?t=DNOXnwfFgrKoUfsZVjribA&s=09">Twitter</a>
         </div>
       </div>
     </section>
