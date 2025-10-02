@@ -24,7 +24,7 @@ export const projects = [
     name: "Space Tourist Website",
     description: "A Frontend Mentor Project that demonstrate responsive design and visual aesthetics. .",
     image: "tourism.PNG",
-    live: "https://space-tourism-website-main-sepia.vercel.app/",
+    live: "https://lustrous-begonia-e60201.netlify.app/",
     repo: "https://github.com/Hardeymorla/space-tourism-website-main",
   },
 ];
